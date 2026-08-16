@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1786865527094",
+    "name": "Admin",
+    "phone": "9988776623",
+    "serviceType": "corporate-pkg",
+    "flavor": "Mint",
+    "customFlavor": "",
+    "location": "Zirakpur",
+    "customLocation": "",
+    "date": "2026-08-17T12:59",
+    "notes": "I will pick by myself",
+    "status": "Accepted",
+    "createdAt": "2026-08-16T07:32:07.094Z"
+  }
+]
